@@ -1,0 +1,11 @@
+body {
+    background-image: url("wallpaper.jpg");
+    background-size: 1324px 860px;
+    color: white;
+    font-family: sans-serif;
+}
+.settings{
+    position: absolute;
+    bottom: 10px;
+    left: 30px;
+}
